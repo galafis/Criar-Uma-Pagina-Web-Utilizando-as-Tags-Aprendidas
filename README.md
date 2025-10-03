@@ -1,8 +1,23 @@
 # 🌐 Projeto HTML Básico – Trilha HTML DIO
 
+## 🖼️ Imagem Hero
+
+![Imagem Hero do Projeto](https://via.placeholder.com/800x400?text=Imagem+Hero+do+Projeto+Web)
+
+---
+
+
 Este projeto foi desenvolvido como parte da **Trilha de HTML** da DIO. O objetivo foi praticar os conceitos fundamentais de HTML, construindo um website simples com diversas tags aprendidas durante as aulas.
 
 A ideia foi criar uma **estrutura básica de site**, aplicando todas as tags vistas na prática, além de pesquisar e usar algumas novas para expandir o conhecimento.
+
+---
+
+# 🌐 Basic HTML Project – DIO HTML Track
+
+This project was developed as part of DIO's **HTML Track**. The goal was to practice fundamental HTML concepts by building a simple website with various tags learned during the lessons.
+
+The idea was to create a **basic site structure**, applying all the tags seen in practice, as well as researching and using some new ones to expand knowledge.
 
 ---
 
@@ -17,12 +32,32 @@ O desafio consistiu em:
 
 ---
 
+## 🧠 Objective
+
+The challenge consisted of:
+
+✅ Creating a simple and well-structured website
+✅ Using all the main tags learned in the course
+✅ Researching and applying new suggested tags
+✅ Publishing the project in a GitHub repository
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas
 
 - HTML5
 - Editor de código (VS Code recomendado)
 - Navegador web
 - Git e GitHub
+
+---
+
+## 🛠️ Technologies and Tools
+
+- HTML5
+- Code editor (VS Code recommended)
+- Web browser
+- Git and GitHub
 
 ---
 
@@ -42,15 +77,48 @@ O projeto utiliza uma série de **tags HTML** para estruturar e organizar o cont
 - `<del>`: texto riscado
 - `<font>`: muda a cor do texto (tag obsoleta, usada aqui para aprendizado)
 
+---
+
+## 🏗️ Project Structure
+
+The project uses a series of **HTML tags** to structure and organize the page content. See below for the main ones used:
+
+### ✍️ Text and formatting tags:
+
+- `<h1>` to `<h6>`: different level headings
+- `<p>`: paragraphs
+- `<mark>`: highlights a word
+- `<small>`: reduced size text
+- `<i>`: italic text
+- `<u>`: underlined
+- `<strong>`: bold
+- `<del>`: strikethrough text
+- `<font>`: changes text color (obsolete tag, used here for learning purposes)
+
+
 ### 🧾 Listas:
 
 - `<ol>`: lista ordenada
 - `<ul>`: lista não ordenada
 - `<li>`: itens de lista
 
+---
+
+### 🧾 Lists:
+
+- `<ol>`: ordered list
+- `<ul>`: unordered list
+- `<li>`: list items
+
 ### 🌐 Links e navegação:
 
 - `<a>`: âncoras e hyperlinks
+
+---
+
+### 🌐 Links and navigation:
+
+- `<a>`: anchors and hyperlinks
 
 ### 🧪 Outros elementos:
 
@@ -62,7 +130,21 @@ O projeto utiliza uma série de **tags HTML** para estruturar e organizar o cont
 
 ---
 
+### 🧪 Other elements:
+
+- `<hr>`: horizontal line
+- `<sub>`: subscript (e.g., chemical formulas like H₂O)
+- `<sup>`: superscript (e.g., powers like 2¹⁰)
+- `<blockquote>`: blockquotes
+- `<abbr>`: abbreviations with visible meaning on hover
+
+---
+
 ## 💡 Exemplo de Código
+
+---
+
+## 💡 Code Example
 
 ```html
 <!DOCTYPE html>
@@ -120,17 +202,53 @@ O projeto utiliza uma série de **tags HTML** para estruturar e organizar o cont
 
 Descreva aqui o conteúdo desta seção.
 
+---
+
+## 📋 Description
+
+Describe the content of this section here.
+
 
 ## 📦 Instalação
 
 Descreva aqui o conteúdo desta seção.
+
+---
+
+## 📦 Installation
+
+Describe the content of this section here.
 
 
 ## 💻 Uso
 
 Descreva aqui o conteúdo desta seção.
 
+---
+
+## 💻 Usage
+
+Describe the content of this section here.
+
 
 ## 📄 Licença
 
 Descreva aqui o conteúdo desta seção.
+
+---
+
+## 📄 License
+
+Describe the content of this section here.
+
+---
+
+## ✒️ Autor
+
+**Gabriel Demetrios Lafis**
+
+---
+
+## ✒️ Author
+
+**Gabriel Demetrios Lafis**
