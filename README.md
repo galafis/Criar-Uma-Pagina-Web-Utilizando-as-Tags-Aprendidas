@@ -1,6 +1,14 @@
-# 🌐 Projeto HTML Básico – Trilha HTML DIO
+# Projeto HTML Basico - Trilha HTML DIO
 
-## 🖼️ Imagem Hero
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![DIO](https://img.shields.io/badge/DIO-Bootcamp-blueviolet?style=for-the-badge)
+
+</div>
+
+## Imagem Hero
 
 ![Imagem Hero do Projeto](https://via.placeholder.com/800x400?text=Imagem+Hero+do+Projeto+Web)
 
@@ -140,6 +148,34 @@ The project uses a series of **HTML tags** to structure and organize the page co
 
 ---
 
+## 🏗️ Hierarquia das Tags HTML / HTML Tags Hierarchy
+
+```mermaid
+graph TD
+    A[HTML Document] --> B[head]
+    A --> C[body]
+    B --> B1[meta charset]
+    B --> B2[title]
+    C --> C1[Headings h1 - h6]
+    C --> C2[Text Formatting]
+    C --> C3[Lists]
+    C --> C4[Links & Navigation]
+    C --> C5[Other Elements]
+    C2 --> C2a[p · mark · small]
+    C2 --> C2b[i · u · strong · del]
+    C2 --> C2c[sub · sup · font]
+    C3 --> C3a[ol - Ordered List]
+    C3 --> C3b[ul - Unordered List]
+    C3a --> C3c[li items]
+    C3b --> C3c
+    C4 --> C4a[a - Hyperlinks & Anchors]
+    C5 --> C5a[hr - Horizontal Rule]
+    C5 --> C5b[blockquote - Citations]
+    C5 --> C5c[abbr - Abbreviations]
+```
+
+---
+
 ## 💡 Exemplo de Código
 
 ---
@@ -198,48 +234,20 @@ The project uses a series of **HTML tags** to structure and organize the page co
 </html>
 
 
-## 📋 Descrição
+## 📦 Instalação / Installation
 
-Descreva aqui o conteúdo desta seção.
+Clone o repositório e abra o arquivo `index.html` diretamente no navegador — nenhuma instalação adicional é necessária.
 
----
+Clone the repository and open `index.html` directly in your browser — no additional installation required.
 
-## 📋 Description
+```bash
+git clone https://github.com/galafis/Criar-Uma-Pagina-Web-Utilizando-as-Tags-Aprendidas.git
+```
 
-Describe the content of this section here.
+## 📄 Licença / License
 
-
-## 📦 Instalação
-
-Descreva aqui o conteúdo desta seção.
-
----
-
-## 📦 Installation
-
-Describe the content of this section here.
-
-
-## 💻 Uso
-
-Descreva aqui o conteúdo desta seção.
-
----
-
-## 💻 Usage
-
-Describe the content of this section here.
-
-
-## 📄 Licença
-
-Descreva aqui o conteúdo desta seção.
-
----
-
-## 📄 License
-
-Describe the content of this section here.
+Este projeto está licenciado sob a Licença MIT.
+This project is licensed under the MIT License.
 
 ---
 
